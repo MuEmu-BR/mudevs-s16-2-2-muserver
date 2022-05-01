@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ItemGradeOption>
+	<ItemOptionList ItemMinIndex="6296" ItemMaxIndex="6296" Name="Flame Wings" />
+	<ItemOptionList ItemMinIndex="6304" ItemMaxIndex="6304" Name="Cloak of Luminosity" />
+	<ItemOptionList ItemMinIndex="6558" ItemMaxIndex="6565" Name="Wings of Elysium,Wings of Flame God,Wing of Celestial Body,Wings of Annihilation,Cloak of Dominator" />
+	<ItemOptionList ItemMinIndex="6613" ItemMaxIndex="6613" Name="Wings of Destiny" />
+	<ItemOptionList ItemMinIndex="6618" ItemMaxIndex="6618" Name="Wings of Conviction" />
+	<ItemOptionList ItemMinIndex="6634" ItemMaxIndex="6634" Name="Heavenly Wings" />
+	
+	<GradeOptionInfo Index="0" GradeValue0="3" GradeValue1="5" GradeValue2="6" GradeValue3="7" GradeValue4="0" GradeValue5="0" GradeValue6="0" GradeValue7="0" GradeValue8="0" Name="Defensive Full MP Restore Rate" />
+	<GradeOptionInfo Index="1" GradeValue0="3" GradeValue1="5" GradeValue2="6" GradeValue3="7" GradeValue4="0" GradeValue5="0" GradeValue6="0" GradeValue7="0" GradeValue8="0" Name="Defensive Full HP Restore Rate" />
+	<GradeOptionInfo Index="2" GradeValue0="3" GradeValue1="5" GradeValue2="6" GradeValue3="7" GradeValue4="0" GradeValue5="0" GradeValue6="0" GradeValue7="0" GradeValue8="0" Name="Full Damage Reflect Rate" />
+	<GradeOptionInfo Index="3" GradeValue0="3" GradeValue1="5" GradeValue2="6" GradeValue3="7" GradeValue4="0" GradeValue5="0" GradeValue6="0" GradeValue7="0" GradeValue8="0" Name="Ignore Defense Rate" />
+	<GradeOptionInfo Index="4" GradeValue0="3" GradeValue1="7" GradeValue2="9" GradeValue3="12" GradeValue4="0" GradeValue5="0" GradeValue6="0" GradeValue7="0" GradeValue8="0" Name="Magic Speed" />
+	<GradeOptionInfo Index="5" GradeValue0="3" GradeValue1="5" GradeValue2="7" GradeValue3="10" GradeValue4="0" GradeValue5="0" GradeValue6="0" GradeValue7="0" GradeValue8="0" Name="Excellent Damage Rate" />
+	<GradeOptionInfo Index="6" GradeValue0="3" GradeValue1="5" GradeValue2="6" GradeValue3="7" GradeValue4="0" GradeValue5="0" GradeValue6="0" GradeValue7="0" GradeValue8="0" Name="Double Damage Rate" />
+	<GradeOptionInfo Index="7" GradeValue0="10" GradeValue1="25" GradeValue2="40" GradeValue3="65" GradeValue4="0" GradeValue5="0" GradeValue6="0" GradeValue7="0" GradeValue8="0" Name="Strength" />
+	<GradeOptionInfo Index="8" GradeValue0="10" GradeValue1="25" GradeValue2="40" GradeValue3="65" GradeValue4="0" GradeValue5="0" GradeValue6="0" GradeValue7="0" GradeValue8="0" Name="Vitality" />
+	<GradeOptionInfo Index="9" GradeValue0="10" GradeValue1="25" GradeValue2="40" GradeValue3="65" GradeValue4="0" GradeValue5="0" GradeValue6="0" GradeValue7="0" GradeValue8="0" Name="Energy" />
+	<GradeOptionInfo Index="10" GradeValue0="10" GradeValue1="25" GradeValue2="40" GradeValue3="65" GradeValue4="0" GradeValue5="0" GradeValue6="0" GradeValue7="0" GradeValue8="0" Name="Dexterity" />
+</ItemGradeOption>
+

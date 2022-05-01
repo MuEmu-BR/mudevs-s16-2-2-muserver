@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GuardianOptionInfo>
+	<OptionInfo Index="0" Name="Elemental Damage Increase +%d" />
+	<OptionInfo Index="1" Name="Elemental Defense Increase +%d" />
+	<OptionInfo Index="2" Name="(up to %d Lvl) Defense increase by %0.1f every 20 Lv" />
+	<OptionInfo Index="3" Name="(up to %d Lvl) Attack/Wizardry/Curse damage increase by 0.1f every 20 Lv" />
+	<OptionInfo Index="4" Name="A 3%% chance of health recovery by %d" />
+	<EliteOptionInfo Index="0" Name="Bleeding Damage Resistance +%d" />
+	<EliteOptionInfo Index="1" Name="Poison Damage Resistance +%d" />
+	<EliteOptionInfo Index="2" Name="Attack Reduction Resistance +%d" />
+	<EliteOptionInfo Index="3" Name="Attack Speed Reduction Resistance +%d" />
+	<EliteOptionInfo Index="4" Name="Defense Reduction Resistance +%d" />
+	<EliteOptionData GuardianID="1" Index="0" OptionType1="0" OptionType2="2" />
+	<EliteOptionData GuardianID="1" Index="1" OptionType1="1" OptionType2="2" />
+	<EliteOptionData GuardianID="1" Index="2" OptionType1="0" OptionType2="3" />
+	<EliteOptionData GuardianID="1" Index="3" OptionType1="1" OptionType2="4" />
+	<EliteOptionData GuardianID="1" Index="4" OptionType1="0" OptionType2="4" />
+	<EliteOptionData GuardianID="2" Index="0" OptionType1="0" OptionType2="2" />
+	<EliteOptionData GuardianID="2" Index="1" OptionType1="1" OptionType2="2" />
+	<EliteOptionData GuardianID="2" Index="2" OptionType1="0" OptionType2="3" />
+	<EliteOptionData GuardianID="2" Index="3" OptionType1="1" OptionType2="4" />
+	<EliteOptionData GuardianID="2" Index="4" OptionType1="0" OptionType2="4" />
+	<EliteOptionData GuardianID="3" Index="0" OptionType1="0" OptionType2="2" />
+	<EliteOptionData GuardianID="3" Index="1" OptionType1="1" OptionType2="2" />
+	<EliteOptionData GuardianID="3" Index="2" OptionType1="0" OptionType2="3" />
+	<EliteOptionData GuardianID="3" Index="3" OptionType1="1" OptionType2="4" />
+	<EliteOptionData GuardianID="3" Index="4" OptionType1="0" OptionType2="4" />
+</GuardianOptionInfo>
+
+

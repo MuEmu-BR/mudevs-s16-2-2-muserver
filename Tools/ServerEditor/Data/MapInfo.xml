@@ -1,0 +1,114 @@
+<MapInfo>
+	<Map Index="0" MapName="Lorencia" />
+	<Map Index="1" MapName="Dungeon" />
+	<Map Index="2" MapName="Devias" />
+	<Map Index="3" MapName="Noria" />
+	<Map Index="4" MapName="Lost Tower" />
+	<Map Index="6" MapName="Arena" />
+	<Map Index="7" MapName="Atlans" />
+	<Map Index="8" MapName="Tarkan" />
+	<Map Index="9" MapName="Devil Square 1" />
+	<Map Index="10" MapName="Icarus" />
+	<Map Index="11" MapName="Blood Castle 1" />
+	<Map Index="12" MapName="Blood Castle 2" />
+	<Map Index="13" MapName="Blood Castle 3" />
+	<Map Index="14" MapName="Blood Castle 4" />
+	<Map Index="15" MapName="Blood Castle 5" />
+	<Map Index="16" MapName="Blood Castle 6" />
+	<Map Index="17" MapName="Blood Castle 7" />
+	<Map Index="18" MapName="Chaos Castle 1" />
+	<Map Index="19" MapName="Chaos Castle 2" />
+	<Map Index="20" MapName="Chaos Castle 3" />
+	<Map Index="21" MapName="Chaos Castle 4" />
+	<Map Index="22" MapName="Chaos Castle 5" />
+	<Map Index="23" MapName="Chaos Castle 6" />
+	<Map Index="24" MapName="Kalima 1" />
+	<Map Index="25" MapName="Kalima 2" />
+	<Map Index="26" MapName="Kalima 3" />
+	<Map Index="27" MapName="Kalima 4" />
+	<Map Index="28" MapName="Kalima 5" />
+	<Map Index="29" MapName="Kalima 6" />
+	<Map Index="30" MapName="Castle Siege" />
+	<Map Index="31" MapName="Land of Trials" />
+	<Map Index="32" MapName="Devil Square 2" />
+	<Map Index="33" MapName="Aida" />
+	<Map Index="34" MapName="Crywolf" />
+	<Map Index="36" MapName="Kalima 7" />
+	<Map Index="37" MapName="Kanturu 1" />
+	<Map Index="38" MapName="Kanturu 2" />
+	<Map Index="39" MapName="Kanturu 3" />
+	<Map Index="40" MapName="Silent" />
+	<Map Index="41" MapName="Barracks" />
+	<Map Index="42" MapName="Refuge" />
+	<Map Index="45" MapName="Illusion Temple 1" />
+	<Map Index="46" MapName="Illusion Temple 2" />
+	<Map Index="47" MapName="Illusion Temple 3" />
+	<Map Index="48" MapName="Illusion Temple 4" />
+	<Map Index="49" MapName="Illusion Temple 5" />
+	<Map Index="50" MapName="Illusion Temple 6" />
+	<Map Index="51" MapName="Elbeland" />
+	<Map Index="52" MapName="Blood Castle 8" />
+	<Map Index="53" MapName="Chaos Castle 7" />
+	<Map Index="56" MapName="Swamp of Calmness" />
+	<Map Index="57" MapName="Raklion 1" />
+	<Map Index="58" MapName="Raklion 2" />
+	<Map Index="62" MapName="Santa Town" />
+	<Map Index="63" MapName="Vulcanus" />
+	<Map Index="64" MapName="Duel Arena" />
+	<Map Index="65" MapName="Double Goer 1" />
+	<Map Index="66" MapName="Double Goer 2" />
+	<Map Index="67" MapName="Double Goer 3" />
+	<Map Index="68" MapName="Double Goer 4" />
+	<Map Index="69" MapName="Imperial Guardian 1" />
+	<Map Index="70" MapName="Imperial Guardian 2" />
+	<Map Index="71" MapName="Imperial Guardian 3" />
+	<Map Index="72" MapName="Imperial Guardian 4" />
+	<Map Index="79" MapName="Loren Market" />
+	<Map Index="80" MapName="Karutan 1" />
+	<Map Index="81" MapName="Karutan 2" />
+	<Map Index="82" MapName="Double Goer Renew 1" />
+	<Map Index="83" MapName="Double Goer Renew 2" />
+	<Map Index="84" MapName="Double Goer Renew 3" />
+	<Map Index="85" MapName="Double Goer Renew 4" />
+	<Map Index="86" MapName="Double Goer Renew 5" />
+	<Map Index="87" MapName="Double Goer Renew 6" />
+	<Map Index="88" MapName="Double Goer Renew 7" />
+	<Map Index="89" MapName="Double Goer Renew 8" />
+	<Map Index="90" MapName="Double Goer Renew 9" />
+	<Map Index="91" MapName="Acheron 1" />
+	<Map Index="92" MapName="Acheron 2" />
+	<Map Index="95" MapName="Deventer 1" />
+	<Map Index="96" MapName="Deventer 2" />
+	<Map Index="97" MapName="Chaos Castle Final" />
+	<Map Index="98" MapName="Illusion Temple Final 1" />
+	<Map Index="99" MapName="Illusion Temple Final 2" />
+	<Map Index="100" MapName="Urk Mountain 1" />
+	<Map Index="101" MapName="Urk Mountain 2" />
+	<Map Index="102" MapName="Devil Square Final" />
+	<Map Index="110" MapName="Nars" />
+	<Map Index="112" MapName="Ferea" />
+	<Map Index="113" MapName="Nixies Lake" />
+	<Map Index="114" MapName="Instance Zone" />
+	<Map Index="115" MapName="Labyrinth of Dimensions" />
+	<Map Index="116" MapName="Deep Dungeon 1" />
+	<Map Index="117" MapName="Deep Dungeon 2" />
+	<Map Index="118" MapName="Deep Dungeon 3" />
+	<Map Index="119" MapName="Deep Dungeon 4" />
+	<Map Index="120" MapName="Deep Dungeon 5" />
+	<Map Index="121" MapName="Trial Area" />
+	<Map Index="122" MapName="Swamp of Darkness" />
+	<Map Index="123" MapName="Kubera Mine 1" />
+	<Map Index="124" MapName="Kubera Mine 2" />
+	<Map Index="125" MapName="Kubera Mine 3" />
+	<Map Index="126" MapName="Kubera Mine 4" />
+	<Map Index="127" MapName="Kubera Mine 5" />
+	<Map Index="128" MapName="Atlans Abyss 1" />
+	<Map Index="129" MapName="Atlans Abyss 2" />
+	<Map Index="130" MapName="Atlans Abyss 3" />
+	<Map Index="131" MapName="Scorched Canyon" />
+	<Map Index="132" MapName="Crimson Icarus" />
+	<Map Index="133" MapName="Arenil Temple" />
+	<Map Index="134" MapName="Ashen Aida" />
+	<Map Index="135" MapName="Old Kethotum" />
+	<Map Index="136" MapName="Blaze Kethhotum" />
+</MapInfo>
